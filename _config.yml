@@ -1,8 +1,8 @@
-title: MICCAI Tutorial on Implicit Neural Representations
+title: MICCAI 2024 - Tutorial on Implicit Neural Representations
 email: julian.mcginnis@tum.de
 description: Tutorial in Conjunction with MICCAI 2024
   ---
-baseurl: "/miccai_tutorial_website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown

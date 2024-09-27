@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "MICCAI Tutorial on Implicit Neural Representations for Medical Imaging"
 title: "MICCAI Tutorial on Implicit Neural Representations for Medical Imaging"
-categories: miccai2024, tutorial, computer vision, machine learning, implicit neural representations, medical imaging, neural fields, nerfs
+categories: miccai2024, tutorial, computer vision, machine learning, implicit neural representations, medical imaging, neural fields, nerfs, siren
 permalink: /
 favicon: /static/img/miccai_final.png
 bibtex: true
