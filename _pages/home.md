@@ -131,7 +131,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
           <td colspan="3"><b>Applications of INR in Medical Imaging</b></td>
         </tr>
         <tr>
-          <td>In-depth lecture of selected applications in medical imaging</td>
+          <td>Applications in shape modeling and registration</td>
           <td><a href="https://people.utwente.nl/j.m.wolterink">Jelmer Wolterink</a></td>
           <td>09:20 - 10:00</td>
         </tr>
