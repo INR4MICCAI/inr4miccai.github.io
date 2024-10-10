@@ -24,7 +24,7 @@ acknowledgements: ""
 Discover the latest advancements in machine learning tailored for medical imaging with our upcoming tutorial on Implicit Neural Representations (INR). INRs have shown promise in various computer vision tasks like 3D scene reconstruction, image denoising, superresolution, and compression. In recent years, the medical imaging community has shown increasing interest in the potential of INRs for personalized solutions, spanning tasks like registration, reconstruction, super-resolution, shape modeling, and segmentation. As this interest grows, we’re excited to announce the launch of the inaugural MICCAI tutorial on INRs for medical imaging. This tutorial will offer a comprehensive overview of INR research progress, highlighting key applications in medical imaging and exploring future directions through engaging lectures and practical demonstrations. Join us and learn from experts in the field who are known for their contributions to both computer vision and medical research. Whether you’re an experienced researcher or new to medical imaging, this tutorial promises valuable insights into leveraging INRs for advancements in healthcare.
 
 
-**Notebooks used during the coding session can be found in our GitHub page:** https://github.com/INR4MICCAI/INRTutorial
+**Notebooks used during the coding session can be found in our GitHub page:** [https://github.com/INR4MICCAI/INRTutorial](https://github.com/INR4MICCAI/INRTutorial)
 
 <br id="speakers">
 <br>
