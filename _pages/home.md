@@ -159,6 +159,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <td><b>Coffee Break</b></td>
           <td></td>
+          <td></td>
           <td>10:00 - 10:30</td>
         </tr>
 
