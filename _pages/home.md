@@ -175,7 +175,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <td>Conditioning INRs with applications to fetal atlas generation</td>
           <td><a href="https://www.kiinformatik.mri.tum.de/de/dannecker-maik">Maik Dannecker</a></td>
-          <td></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/16Na5MVuQkY4GUjBKzAaj6B4xrsOAJ653/view?usp=sharing">PDF</a></td>
           <td>11:50 - 12:05</td>
         </tr>
         <tr>
