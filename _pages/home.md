@@ -139,7 +139,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <td>Applications in shape modeling and registration</td>
           <td><a href="https://people.utwente.nl/j.m.wolterink">Jelmer Wolterink</a></td>
-          <td></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/1L4mufuun7-I7h005b2hhfH_RBDMYp-bF/view?usp=sharing">PDF</a></td>
           <td>09:20 - 10:00</td>
         </tr>
         <tr>
