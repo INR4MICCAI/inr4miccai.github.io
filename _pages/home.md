@@ -182,7 +182,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <td>Helpful Frameworks to start your research & Future Research Directions</td>
           <td><a href="https://aim-lab.io/author/vasiliki-sideri-lampretsa/">Vasiliki Sideri-Lampretsa</a></td>
-           <td></td>
+           <td><a target="_blank" href="https://drive.google.com/file/d/1C_wQEwp19OW1tlRjKBI4rsGRcvfi_Ms_/view?usp=sharing">PDF</a></td>
           <td>12:05 - 12:30</td>
         </tr>
       </tbody>
